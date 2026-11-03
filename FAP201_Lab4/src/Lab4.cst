@@ -1,0 +1,6 @@
+
+IO_LOC "clk" T9;
+IO_LOC "i_sw_raw" B16;
+IO_LOC "i_rst" C15;
+IO_LOC "o_led" D14;
+IO_LOC "o_dbg_stable" C14;
